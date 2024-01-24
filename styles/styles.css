@@ -30,8 +30,7 @@ header nav{
 }
 
 main{
-    height: 500px;
-    background-color: blueviolet;
+    height: 500px;    
 }
 
 .nav-list{
@@ -59,7 +58,7 @@ main{
 }
 
 #story{
-    background: url(./assets/imagenes/codigo.jpg) 50% 0 fixed;
+    background: url(../assets/imagenes/codigo.jpg) 50% 0 fixed;
     background-size: cover;
     min-height: 500px;
     color: #eeeeee;
